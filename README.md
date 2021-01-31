@@ -1,0 +1,3 @@
+# phamacystore
+Here is a domo pharmacy store still under development.. fully coded with java
+still develping and need improment...
